@@ -1,6 +1,6 @@
 uvloop
 tgcrypto
-pyrogram~=
-Flask==
-gunicorn==
-aiohttp==
+pyrogram
+Flask
+gunicorn
+aiohttp
